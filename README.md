@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I’m Joshua — Backend Engineer
 
-<!--
-**d0vel-20/d0vel-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate backend engineer who loves building **production-grade systems** using tools like **TypeScript**, **Express**, **NestJS**, **Kafka**, **Redis**, **PostgreSQL**, and **MongoDB**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech I Use Daily
+
+- **Languages:** TypeScript, JavaScript, Go (learning)
+- **Frameworks:** Express.js, NestJS
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Messaging & Queues:** Kafka, BullMQ, Redis Pub/Sub
+- **Architecture:** Microservices, Monoliths, Queues, CRON jobs
+- **Tools:** Git, Docker, PM2, GitHub Actions
+
+---
+
+## 📦 Real-World Projects
+
+### 📘 Computer Institute ERP  
+An enterprise resource planning system built for a real-world computer institute to manage students, staff, results, payments, and more.  
+**Stack:** Express, TypeScript, MongoDB  
+[View project »](https://github.com/d0vel-20/comp-institute-erp)
+
+
+
+---
+
+## 📚 What I’m Focusing on Now
+
+- Deep backend system design  
+- High-concurrency systems using Kafka and queues  
+- Caching strategies and Redis  
+- Learning Go for performance-critical services  
+- DevOps tools: Docker, CI/CD, scalable deployments
+
+---
+
+## 🚀 Let's Connect
+
+- Email: `nwanebij@gmail.com`    
+- GitHub: [@d0vel-20](https://github.com/d0vel-20)
+
+---
+
