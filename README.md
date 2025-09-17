@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Joshua — Backend Engineer
+# 👋 Hi, I’m Joshua — Backend and Devops Engineer
 
 I'm a passionate Backend and Devops Engineer who loves building **production-grade systems** using tools like **TypeScript**, **Express**, **NestJS**, **Kafka**, **Redis**, **PostgreSQL**, and **MongoDB**.
 
@@ -29,7 +29,7 @@ I'm a passionate Backend and Devops Engineer who loves building **production-gra
 
 - Email: `nwanebij@gmail.com`    
 - GitHub: [@d0vel-20](https://github.com/d0vel-20)
-- Linkedln: `https://www.linkedin.com/in/nwanebi-joshua-dovel-878107353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app`
+- Linkedln: [N. Andrew Joshua](https://www.linkedin.com/in/nwanebi-joshua-dovel-878107353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
