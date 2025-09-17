@@ -1,28 +1,17 @@
 # 👋 Hi, I’m Joshua — Backend Engineer
 
-I'm a passionate backend engineer who loves building **production-grade systems** using tools like **TypeScript**, **Express**, **NestJS**, **Kafka**, **Redis**, **PostgreSQL**, and **MongoDB**.
+I'm a passionate Backend and Devops Engineer who loves building **production-grade systems** using tools like **TypeScript**, **Express**, **NestJS**, **Kafka**, **Redis**, **PostgreSQL**, and **MongoDB**.
 
 ---
 
 ## 🔧 Tech I Use Daily
 
-- **Languages:** TypeScript, JavaScript, Go (learning)
+- **Languages:** TypeScript, JavaScript
 - **Frameworks:** Express.js, NestJS
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **Messaging & Queues:** Kafka, BullMQ, Redis Pub/Sub
 - **Architecture:** Microservices, Monoliths, Queues, CRON jobs
 - **Tools:** Git, Docker, PM2, GitHub Actions
-
----
-
-## 📦 Real-World Projects
-
-### 📘 Computer Institute ERP  
-An enterprise resource planning system built for a real-world computer institute to manage students, staff, results, payments, and more.  
-**Stack:** Express, TypeScript, MongoDB  
-[View project »](https://github.com/d0vel-20/comp-institute-erp)
-
-
 
 ---
 
@@ -40,6 +29,7 @@ An enterprise resource planning system built for a real-world computer institute
 
 - Email: `nwanebij@gmail.com`    
 - GitHub: [@d0vel-20](https://github.com/d0vel-20)
+- Linkedln: `https://www.linkedin.com/in/nwanebi-joshua-dovel-878107353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app`
 
 ---
 
